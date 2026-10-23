@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="primary">#FF6B35</color>
+    <color name="primary_dark">#E8541F</color>
+    <color name="primary_light">#FFE7DC</color>
+    <color name="primary_soft">#FFF2EC</color>
+    <color name="secondary">#242424</color>
+    <color name="secondary_soft">#3B3734</color>
+    <color name="accent">#FFC857</color>
+    <color name="accent_light">#FFF3CF</color>
+    <color name="accent_deep">#F2AC2E</color>
+
+    <!-- Surfaces -->
+    <color name="bg">#FFF9F3</color>
+    <color name="bg_peach">#FFF1E6</color>
+    <color name="bg_deep">#FFF4EA</color>
+    <color name="card">#FFFFFF</color>
+    <color name="card_alt">#FFFDFA</color>
+    <color name="stroke">#F2E2D4</color>
+    <color name="divider">#F3E9DF</color>
+
+    <!-- Text -->
+    <color name="text_primary">#242424</color>
+    <color name="text_secondary">#756B62</color>
+    <color name="text_hint">#A99C90</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- Feedback -->
+    <color name="success">#2E9E6B</color>
+    <color name="success_light">#E7F7EF</color>
+    <color name="danger">#DE4D4D</color>
+    <color name="danger_light">#FDEBEB</color>
+    <color name="veg">#2E9E6B</color>
+    <color name="nonveg">#D64545</color>
+    <color name="star">#FFB020</color>
+    <color name="info">#3B82F6</color>
+    <color name="info_light">#EAF2FF</color>
+
+    <!-- Buzz mood cards -->
+    <color name="mood_peach">#FFE6D8</color>
+    <color name="mood_red">#FFE3DD</color>
+    <color name="mood_butter">#FFF2CC</color>
+    <color name="mood_green">#E2F5E9</color>
+    <color name="mood_pink">#FCE4EE</color>
+    <color name="mood_blue">#E4F0FF</color>
+
+    <!-- Utility -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="white_15">#26FFFFFF</color>
+    <color name="black_60">#99000000</color>
+    <color name="black_20">#33000000</color>
+    <color name="scrim_top">#14FF6B35</color>
+    <color name="splash_top">#FF7A45</color>
+    <color name="splash_bottom">#FF5A24</color>
+    <color name="splash_middle">#FF8A4C</color>
+</resources>

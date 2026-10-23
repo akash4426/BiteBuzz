@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+        From API 27 the app can draw dark navigation icons, so the navigation bar
+        can stay transparent and blend into the edge-to-edge layout.
+    -->
+    <style name="Theme.BiteBuzz" parent="Theme.BiteBuzz.Base">
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+</resources>
